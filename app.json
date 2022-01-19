@@ -1,5 +1,5 @@
 {
-  "name": "ang-book-seller-ui",
+  "name": "ang-book-seller",
   "buildpacks": [
     {
       "url": "heroku/nodejs"
